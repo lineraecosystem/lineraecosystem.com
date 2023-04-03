@@ -2,8 +2,8 @@
 	<div ref="introSection" class="pt-24 pb-10 lg:pb-10 lg:pt-16 text-center overflow-hidden transform-gpu bg-gray-50">
 		<Container ref="introContainer" class="max-w-lg lg:max-w-md">
 			<Icon name="logo" class="block w-16 h-16 lg:w-10 lg:h-10 text-aporia mx-auto" />
-			<h1 class="text-3xl lg:text-xl mx-auto font-bold text-gray-900 mt-3">Sui Ecosystem</h1>
-			<p class="mt-4 text-lg lg:text-base text-gray-500">A curated list of Sui Ecosystem projects</p>
+			<h1 class="text-3xl lg:text-xl mx-auto font-bold text-gray-900 mt-3">Linera Ecosystem</h1>
+			<p class="mt-4 text-lg lg:text-base text-gray-500">A curated list of Linera Ecosystem projects</p>
 			<AppButton
 				tag="a"
 				href="#projects"

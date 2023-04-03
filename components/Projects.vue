@@ -64,7 +64,7 @@
 										selectedCategoriesVisual.includes(category)
 											? `background-color: ${pSBC(0.93, categoryColors[category][0])}; color: ${
 													categoryColors[category][0]
-											  }; border-color: transparent;`
+											}; border-color: transparent;`
 											: ''
 									"
 									type="button"
