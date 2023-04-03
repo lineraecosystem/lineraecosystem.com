@@ -1,0 +1,21 @@
+- name: Sui
+  buttonText: Try Sui
+  link: 'https://sui.io/?utm_source=suicn'
+  category: Blockchain
+  description: >-
+    **Build without boundaries. A Layer 1 for the next billion users.**
+  logo: /images/projects/sui.svg
+  introLogoVisible: true
+  gitHubRepoName: MystenLabs/sui
+  twitterRepoName: SuiNetwork
+  discordRepoName: sui
+- name: Sui Wallet
+  buttonText: Try Sui Wallet
+  link: 'https://chrome.google.com/webstore/detail/sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil/?utm_source=aptoscn'
+  category: Wallet
+  description: >-
+    **A wallet for Sui.**
+  logo: /images/projects/sui.svg
+  introLogoVisible: true
+  twitterRepoName: SuiNetwork
+  discordRepoName: sui
