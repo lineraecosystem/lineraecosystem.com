@@ -26,31 +26,19 @@ export default {
 			menu: [
 				{
 					text: 'Twitter',
-					href: 'https://twitter.com/SuiAssistant_',
+					href: 'https://twitter.com/LineraEcosystem',
 					target: '_blank',
 					icon: 'twiiter',
 				},
 				{
 					text: 'Telegram',
-					href: 'https://t.me/SuiNetworkCN',
+					href: 'https://t.me/LineraEcosystem',
 					target: '_blank',
 					icon: 'telegram',
 				},
 				{
-					text: 'YouTube',
-					href: 'https://www.youtube.com/@SuinetworkCN',
-					target: '_blank',
-					icon: 'youtube',
-				},
-				{
-					text: 'Notion',
-					href: 'https://suicn.notion.site/Sui-6517753efc9642ce80dd2d54ae38cb3e',
-					target: '_blank',
-					icon: 'notion',
-				},
-				{
 					text: 'Contribute',
-					href: 'https://github.com/suieco/suieco',
+					href: 'https://github.com/lineraecosystem/lineraecosystem.com/issues',
 					target: '_blank',
 					icon: 'github',
 				},

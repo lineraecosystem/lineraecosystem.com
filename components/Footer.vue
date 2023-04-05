@@ -34,10 +34,10 @@
 				</div>
 				<div>by</div>
 				<a
-					href="https://t.me/SuiNetworkCN"
+					href="https://twitter.com/Linera_CN"
 					target="_blank"
 					class="block transition-opacity hover:opacity-70"
-					@click="$gtagEvents.externalLinkClick('https://t.me/SuiNetworkCN')"
+					@click="$gtagEvents.externalLinkClick('https://twitter.com/Linera_CN')"
 				>
 					<img :src="AporiaLogo" alt="Aporia" class="block ml-3 h-8 lg:h-6" />
 				</a>
@@ -47,7 +47,7 @@
 </template>
 
 <script>
-import AporiaLogo from '~/assets/logo-suicn.svg'
+import AporiaLogo from '~/assets/logo-lineracn.svg'
 
 export default {
 	data() {
