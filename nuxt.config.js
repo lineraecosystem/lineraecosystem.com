@@ -156,11 +156,11 @@ export default {
 			},
 			{
 				name: 'og:image',
-				content: '/images/image.jpg',
+				content: '/images/image.jpeg',
 			},
 			{
 				name: 'twitter:image',
-				content: '/images/twitter-image.jpg',
+				content: '/images/twitter-image.jpeg',
 			},
 			{
 				name: 'twitter:card',

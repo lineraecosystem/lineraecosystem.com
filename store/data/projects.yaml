@@ -1,21 +1,19 @@
-- name: Sui
-  buttonText: Try Sui
-  link: 'https://sui.io/?utm_source=suicn'
+- name: Linera
+  buttonText: Try Linera
+  link: 'https://linera.io/?utm_source=lineraecosystem'
   category: Blockchain
   description: >-
-    **Build without boundaries. A Layer 1 for the next billion users.**
-  logo: /images/projects/sui.svg
+    **Linera is a layer-1 blockchain protocol designed to bring the elastic scaling of web2 to web3**
+  logo: /images/projects/linera.png
   introLogoVisible: true
-  gitHubRepoName: MystenLabs/sui
-  twitterRepoName: SuiNetwork
-  discordRepoName: sui
-- name: Sui Wallet
-  buttonText: Try Sui Wallet
-  link: 'https://chrome.google.com/webstore/detail/sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil/?utm_source=aptoscn'
-  category: Wallet
+  gitHubRepoName: linera-io
+  twitterRepoName: linera_io
+- name: Linera 中文
+  buttonText: Try Linera 中文
+  link: 'https://t.me/Linera_China'
+  category: DAO
   description: >-
-    **A wallet for Sui.**
-  logo: /images/projects/sui.svg
+    **Linera 中文技术交流群**
+  logo: /images/projects/linera.png
   introLogoVisible: true
-  twitterRepoName: SuiNetwork
-  discordRepoName: sui
+  twitterRepoName: Linera_CN
