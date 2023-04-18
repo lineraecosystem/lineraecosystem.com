@@ -32,7 +32,7 @@ export default {
 				},
 				{
 					text: 'Telegram',
-					href: 'https://t.me/LineraEcosystem',
+					href: 'https://t.me/MoveAssistant',
 					target: '_blank',
 					icon: 'telegram',
 				},
